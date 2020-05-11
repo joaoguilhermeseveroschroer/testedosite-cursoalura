@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://i1.wp.com/socientifica.com.br/wp-content/uploads/2019/05/image_7150_1e-Hubble-Legacy-Field.jpg?fit=1920%2C1773&ssl=1);
+    background-size: auto 100vh;
+    font-family: Verdana;
+    height: 200vh;
+  }
+  
+  .menu{
+    font-family: Arial;
+    background-color: lightblue;
+  }
+  
+  .menu li {
+    list-style: none;
+    
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a{
+   text-decoration: none;
+   color: black;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    
+  }
+  
+  .site-subtitle,
+  .site-title{
+    color: lightblue;
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+  }
